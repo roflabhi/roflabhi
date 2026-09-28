@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a complete noob in coding. Now, I do not want to sit on the sidelines of AI any longer, I have started this journey to build something.
 
 <!--
 **roflabhi/roflabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
